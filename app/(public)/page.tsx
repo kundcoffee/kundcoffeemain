@@ -13,40 +13,43 @@ export default function Home() {
   }, []);
 
   const menuItems = [
-    {
-      id: 1,
-      name: "Chicken Dum Biryani",
-      description:
-        "Fragrant basmati rice layered with tender, spiced marinated chicken, slow-cooked to perfection and served with refreshing raita.",
-      price: "Rs 590",
-      image: "/food/Chicken.jpg",
-    },
-    {
-      id: 2,
-      name: "Royal Mutton Biryani",
-      description:
-        "Aromatic basmati rice layered with tender, slow-cooked mutton and rich spices, infused with deep flavors and served with refreshing raita..",
-      price: "Rs 850",
-      image: "/food/Mutton.jpg",
-    },
-    {
-      id: 3,
-      name: "Paneer Biryani",
-      description:
-        "Fragrant basmati rice layered with soft, spiced paneer cubes and aromatic herbs, slow-cooked for rich flavor and served with refreshing raita.",
-      price: "Rs 590",
-      image: "/food/Panner.jpg",
-    },
+   const menuItems = [
         {
-      id: 4,
-      name: "Chicken Steam Momo",
-      description:
-      "Soft dumplings filled with spiced chicken, steamed to perfection.", 
-      price: "Rs 220",
-      Serving: "Best for 1–2 persons",
-      image: "/food/chicken-steam-momo.jpg",
-    },
- 
+            id: 1,
+            name: "1 KG Medium Roast Whole Coffee Beans",
+            description:
+                "Perfect for French Press, Moka Pot, and home coffee grinders. Our Medium Roast offers a smooth, balanced flavor with a clean finish.",
+            price: "Rs 3500",
+            image: "/food/1kg-medium-roast-coffee-beans.jpg",
+        },
+
+        {
+            id: 2,
+            name: "500 Grams Medium Roast Whole Coffee Beans",
+            description:
+                "Perfect for French Press, Moka Pot, and home coffee grinders. Our Medium Roast offers a smooth, balanced flavor with a clean finish.",
+            price: "Rs 1800",
+            image: "/food/500-grams-medium-roast-coffee-beans.jpg",
+        },
+
+        {
+            id: 3,
+            name: "1 KG Medium Roast Ground Coffee",
+            description:
+                "Ready-to-brew ground coffee, perfect for French Press and other brewing methods. Enjoy a smooth, balanced flavor with a clean finish.",
+            price: "Rs 3600",
+            image: "/food/1kg-medium-roast-ground-coffee.jpg",
+        },
+
+        {
+            id: 4,
+            name: "500 Grams Medium Roast Ground Coffee",
+            description:
+                "Ready-to-brew ground coffee, perfect for French Press and other brewing methods. Enjoy a smooth, balanced flavor with a clean finish.",
+            price: "Rs 1900",
+            image: "/food/500-medium-roast-ground-coffee.jpg",
+        },
+
   
   {
       id: 5,
