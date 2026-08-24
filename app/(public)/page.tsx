@@ -12,7 +12,7 @@ export default function Home() {
     setMounted(true);
   }, []);
 
-  const menuItems = [
+
    const menuItems = [
         {
             id: 1,
