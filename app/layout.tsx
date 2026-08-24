@@ -9,17 +9,17 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Raj Biryani | Biryani in Kathmandu",
-  description: "Raj Biryani – serving authentic and delicious biryani in Kathmandu.",
+  title: "Buy Nepali Coffee Beans in Kathmandu | Buy Ground Coffee in Kathmandu",
+  description: "Buy authentic Nepali coffee beans and freshly ground coffee in Kathmandu.",
   keywords: [
-    "Raj Biryani",
-    "Biryani in Kathmandu",
-    "Best Biryani in Kathmandu",
-    "Chicken Biryani Kathmandu",
-    "Mutton Biryani Kathmandu",
-    "Biryani Restaurant Kathmandu",
-    "Kathmandu Biryani",
-    "Best Restaurant in Kathmandu"
+    "Kund Coffee",
+    "Nepali Coffee Beans",
+    "Ground Coffee Beans in Kathmandu",
+    "Nepali Coffee Beans",
+    "Whole Sale Coffee Beans",
+    "Coffee Roast",
+    "Fresh Coffee Beans",
+    "Green Coffee"
   ],
 
   
